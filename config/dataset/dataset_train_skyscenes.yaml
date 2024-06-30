@@ -1,0 +1,12 @@
+dataset:
+  train:
+    name: mixed
+    prob_ls: [1.0]
+    dataset_list:
+      - name: skyscenes
+        disp_name: skyscenes
+        dir: /mnt/data/Skyscene/
+        filenames: /mnt/data/bientd/Marigold/data_split/skyscenes/skyscenes_train.txt
+        resize_to_hw:
+        - 640
+        - 480

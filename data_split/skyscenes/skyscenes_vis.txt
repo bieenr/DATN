@@ -1,0 +1,2 @@
+Images/H_35_P45/ClearNoon/Town07/004107_clrnoon.png Depth/H_35_P_45/ClearNoon/Town07/004107_depth_clrnoon.png
+Images/H_35_P45/ClearNoon/Town07/004327_clrnoon.png Depth/H_35_P_45/ClearNoon/Town07/004327_depth_clrnoon.png

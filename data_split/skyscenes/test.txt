@@ -1,0 +1,7 @@
+/mnt/data/bientd/SkyScenes/Normal/H_35_P_45/ClearNoon/Town01/007791_normal_clrnoon.png
+/mnt/data/bientd/SkyScenes/Normal/H_35_P_45/ClearNoon/Town01/008371_normal_clrnoon.png
+/mnt/data/bientd/SkyScenes/Normal/H_35_P_45/ClearNoon/Town01/008171_normal_clrnoon.png
+/mnt/data/bientd/SkyScenes/Normal/H_35_P_45/ClearNoon/Town01/008341_normal_clrnoon.png
+/mnt/data/bientd/SkyScenes/Normal/H_35_P_45/ClearNoon/Town01/008431_normal_clrnoon.png
+/mnt/data/bientd/SkyScenes/Normal/H_35_P_45/ClearNoon/Town01/007971_normal_clrnoon.png
+/mnt/data/bientd/SkyScenes/Normal/H_35_P_45/ClearNoon/Town01/008231_normal_clrnoon.png
